@@ -21,10 +21,10 @@
       <a class="nav-link" href="owner-index.php">Home</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="#">About Us</a>
+<!--       <a class="nav-link" href="#">About Us</a> -->
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="#">Contact Us</a>
+<!--       <a class="nav-link" href="#">Contact Us</a> -->
     </li>
   </ul>
   <ul class="nav navbar-nav navbar-right">
