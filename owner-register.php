@@ -34,8 +34,8 @@ include("navbar.php");
     <div class="form-group">
       <label for="id_type">Type of ID:</label>
       <select class="form-control" name="id_type" required>
-        <option>Citizenship</option>
-        <option>Driving Licence</option>
+        <option>Kartu Tanda Penduduk</option>
+        <option>Surat Izin Mengemudi</option>
       </select>
     </div>
     <div class="form-group">
