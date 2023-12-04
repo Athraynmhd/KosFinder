@@ -21,7 +21,7 @@ include("tenant-engine.php");
       <input type="password" class="form-control" id="pwd" placeholder="Enter password" name="password" required>
     </div>
     <div class="form-group">
-      <a href="forgot-password-owner.php">Lost your Password ? </a> 
+<!--       <a href="forgot-password-owner.php">Lost your Password ? </a>  -->
     </div>
     <center><input type="submit" id="submit" name="tenant_login" class="btn btn-primary btn-block" value="Login"></center>
   </form>
